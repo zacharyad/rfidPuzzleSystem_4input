@@ -102,7 +102,7 @@ This system uses RFID cards in a specific order to unlock. Think of it like a co
 ## Understanding What You See & Hear
 
 ### LED Colors Mean:
-- 🔵 **Blue** = Puzzle Mode (normal - waiting for cards)
+- 🔵 **Blue flash** = Puzzle Mode (normal - waiting for cards)
 - 🟣 **Purple** = Programming Mode (writing cards)
 - 🟠 **Orange** = Set Combo Mode (changing the combination)
 - 🟢 **Green Progress Bar** = Shows how many cards you've entered
